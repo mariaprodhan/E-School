@@ -1,0 +1,169 @@
+/* font-family: 'Poppins', sans-serif; */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-bottom: 50px;
+}
+.menu-bg{
+    background-color: #F0FFF0;
+}
+.menu-bg ul li{
+    padding: 0 10px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.menu-bg button{
+    background-color: #21B573;
+    padding: 2px 25px;
+    border: none;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.menu-bg button a{
+    color: #fff !important;
+}
+/* nav end */
+/* banner start */
+#banner{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F0FFF0;
+    padding: 50px;
+}
+.banner-text h6{
+    color: #FD511A;
+    margin-bottom: 30px;
+}
+.banner-text h1{
+    font-weight: 1000;
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+.banner-text span{
+    color: #21B573;
+}
+.banner-text p{
+    font-size: 22px;
+    color: #6C6B6B;
+    margin-bottom: 30px;
+}
+.banner-text button{
+    background-color: #21B573;
+    color: #fff;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+/* banner end */
+/* books start */
+.book-main{
+    padding: 40px 0px;
+    background-color: #F8FFFB;
+    text-align: center;
+    margin-top: 40px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.book-main:hover{
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+}
+
+/* books end */
+/* course start */
+#course{
+    font-family: 'Poppins', sans-serif;
+
+}
+.course-head h1{
+    text-align: center;
+    font-weight: 1000;
+    margin-bottom: 80px;
+    color: #413960;
+}
+.course-main{
+    padding: 10px;
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.course-text{
+    margin-left: 20px;
+}
+.course-text a{
+    text-decoration: none;
+    color: #fff;
+}
+.course-text button{
+    background-color: #21B573;
+    color: #fff;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 30px;
+    margin-bottom: 40px;
+}
+.course-buttom {
+    justify-content: space-between;
+}
+/* course end */
+
+/* test start */
+#test{
+    font-family: 'Poppins', sans-serif;
+}
+.test-head h1{
+    text-align: center;
+    font-weight: 1000;
+    margin: 80px;
+    color: #413960;
+}
+.test-main img{
+    width: 20%;
+    margin-right: 35px;
+}
+.test-main{
+    align-items: center;
+}
+/* test end */
+/* footer start */
+#footer{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    background-color: #282531;
+    padding: 80px;
+}
+
+.cor-text a{
+    text-decoration: none;
+    color: #222;
+    color: #fff;
+}
+
+/* footer end */
+/* copy start */
+#cop{
+    background-color: #282531;
+}
+.copy{
+    text-align: center;
+    color: #fff;
+    padding-bottom: 20px;
+}
+/* copy end */
+    
